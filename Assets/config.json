@@ -1,0 +1,9 @@
+{
+    "cache_file": "Editor/ui_ts_cache.json",
+    "bind_flag": "// PREFAB #{0}#",
+    "func_get_path": "GetPrefabPath",
+    "func_binding": "BindComponents",
+    "func_get_component": "GetComponentByIndex",
+    "func_get_sub_context": "BindSubContext",
+    "class_ui_base_name": "UIWindow|UIContext"
+}

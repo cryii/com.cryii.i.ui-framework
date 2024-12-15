@@ -1,0 +1,15 @@
+{
+    "name": "com.cryii.i.ui-framework",
+    "displayName": "CRI-UI Framework",
+    "version": "1.0.0",
+    "description": "com.cryii.i.ui-framework",
+    "unity": "2022.3",
+    "keywords": [
+        "UI Framework"
+    ],
+    "author": {
+        "name": "cryii",
+        "email": "icryingcat@gmail.com"
+    },
+    "license": "MIT"
+}
